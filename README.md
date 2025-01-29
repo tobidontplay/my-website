@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tobi's Web Application
 
 ## Project Overview
@@ -73,3 +74,6 @@ MIT License - See [LICENSE.md](LICENSE.md)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+=======
+# Tobi
+>>>>>>> 2d8fea4 (Initial commit)
